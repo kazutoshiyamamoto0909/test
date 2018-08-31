@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/mysql
+projectsInSourcePath=Capsule;Correction;HelloJSP;HelloServlet;TestDB;TestDB2;TestProject01;android;human;iphone;login;person;person2;
+tomcatJRE=1534224347174
